@@ -1,4 +1,4 @@
-# By @SDBOTs_inifinity
+# By @darkridersslk
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 from script import script  # pylint:disable=import-error
