@@ -1,16 +1,16 @@
 {
     "name": "Image-Editor-Bot",
     "description": "A Bot that can Edit Images in various modes",
-    "logo": "https://telegra.ph/file/6b47c77f2f6abfe81fbeb.jpg",
+    "logo": "https://telegra.ph/file/c4678a749930a17efa2cd.jpg",
     "keywords": [
         "Image",
         "Editor",
         "Telegram Bot",
         "DihanOfficial"
     ],
-    "website": "https://t.me/dihanrandila",
-    "repository": "https://github.com/DihanOfficial/Image-Editor-Bot",
-    "success_url": "https://telegram.dog/Dihanofficial",
+    "website": "https://t.me/SDBOTs_inifinity",
+    "repository": "https://github.com/sadew451/Image-Editor-Bot",
+    "success_url": "",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
