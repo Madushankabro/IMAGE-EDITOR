@@ -1,4 +1,4 @@
-# By @dihanofficial
+# By @SDBOTs_inifinity
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram import Client, filters
 from script import script  # pylint:disable=import-error
@@ -19,7 +19,7 @@ async def start(client: Client, message: Message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/dihanofficial",
+                            url="https://t.me/SDBOTs_inifinity",
                         )
                     ],
                 ]
@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/dihanofficial",
+                            url="https://t.me/SDBOTs_inifinity",
                         )
                     ],
                 ]
@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "Updates Channel",
-                            url="https://t.me/dihanofficial",
+                            url="https://t.me/SDBOTs_inifinity",
                         )
                     ],
                 ]
