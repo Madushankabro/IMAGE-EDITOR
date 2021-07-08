@@ -2,20 +2,20 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://telegra.ph/file/6b47c77f2f6abfe81fbeb.jpg">
+    <img src="https://telegra.ph/file/c4678a749930a17efa2cd.jpg">
       </a>
 
 
   
 </p>
 <p align="center">
-  <a href="https://github.com/dihanofficial/Image-Editor-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/DihanOfficial/Image-Editor-Bot?style=social">
+  <a href="https://github.com/sadew451/Image-Editor-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/sadew451/Image-Editor-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/Dihanofficial/Image-Editor-Bot/fork">
-    <img src="https://img.shields.io/github/forks/Dihanofficial/Image-Editor-Bot?label=Fork&style=social">
+  <a href="https://github.com/sadew451/Image-Editor-Bot/fork">
+    <img src="https://img.shields.io/github/forks/sadew451/Image-Editor-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -27,7 +27,7 @@ A Powerful and Useful Bot Which Can :-
 * Remove BG
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dihanofficial/Image-Editor-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/Image-Editor-Bot)
 
 <HR/>
 
@@ -40,12 +40,13 @@ A Powerful and Useful Bot Which Can :-
 [+] The Image-Editor-bot will not work without setting the mandatory vars.
 ```
 
-## New version Avaiilable on Telegram as [Image Editor Bot](https://t.me/The_Image_Editer_Bot)
+## New version Avaiilable on Telegram as [Image Editor Bot](https://t.me/imageediterSDBOTs)
 
 ## Special Credits
-- [Dihan Randila](https://github.com/dihanofficial) - A Co-Developer of Projectㅤ
+
+- [Sadew Jayasekara](https://github.com/sadew451) - A Co-Developer of Projectㅤ
 
 
 
 ## Join 
--[Dihan Official] (https://t.me/dihanofficial) - Bots Updatesㅤㅤㅤㅤㅤㅤ  
+-[SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲] (https://t.me/SDBOTs_inifinity) - Bots Updatesㅤㅤㅤㅤㅤㅤ  
