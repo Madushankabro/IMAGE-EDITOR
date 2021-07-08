@@ -49,4 +49,4 @@ A Powerful and Useful Bot Which Can :-
 
 
 ## Join 
--[SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲] (https://t.me/SDBOTs_inifinity) - Bots Updatesㅤㅤㅤㅤㅤㅤ  
+-[SDBOTs 𝐈𝐧𝐢𝐟𝐢𝐧𝐢𝐭𝐲](https://t.me/SDBOTs_inifinity) - Bots Updatesㅤㅤㅤㅤㅤㅤ  
