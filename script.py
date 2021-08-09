@@ -2,9 +2,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I'm a 𝙄𝙈𝘼𝙂𝙀 𝙀𝘿𝙄𝙏𝙊𝙍 𝘽𝙊𝙏 which Supports various modes
+I'm a 𝙄𝙈𝘼𝙂𝙀 𝙀𝘿𝙄𝙏𝙊𝙍 𝘽𝙊𝙏 which Supports various modes.
 
-For more click help....</b>"""
+Click HELP Button for mor info....
+
+© 🔰@epusthakalaya_bots™🔰</b>"""
     HELP_MSG = """Hi, Follow these Steps..
 
 <code>🖼 Send me any Image to Edit..</code>
