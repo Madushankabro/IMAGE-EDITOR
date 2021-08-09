@@ -111,7 +111,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "📣 Updates Channel 📣", url="https://t.me/epusthakalaya_bots"
+                        "📣 UPDATES CHANNEL 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ],
             ]
@@ -131,7 +131,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "📣 Updates Channel 📣", url="https://t.me/epusthakalaya_bots"
+                        "📣 UPDATES CHANNEL 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ],
             ]
@@ -148,7 +148,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "📣 Updates Channel 📣", url="https://t.me/epusthakalaya_bots"
+                        "📣 UPDATES CHANNEL 📣", url="https://t.me/epusthakalaya_bots"
                     )
                 ],
             ]
