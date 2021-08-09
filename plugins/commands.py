@@ -14,8 +14,8 @@ async def start(client: Client, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            "📣 Updates Channel 📣",
-                            url="https://t.me/epusthakalaya_bots",
+                            "✯ REVIEW US ✯",
+                            url="https://t.me/tlgrmcbot?start=epu_image_editor_bot",
                         )
                     ],    
                     [
@@ -24,7 +24,7 @@ async def start(client: Client, message: Message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "📣 Updates Channel 📣",
+                            "📣 UPDATES CHANNEL 📣",
                             url="https://t.me/epusthakalaya_bots",
                         )
                     ],
@@ -50,7 +50,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "📣 Updates Channel 📣",
+                            "📣 UPDATES CHANNEL 📣",
                             url="https://t.me/epusthakalaya_bots",
                         )
                     ],
@@ -76,7 +76,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "📣 Updates Channel 📣",
+                            "📣 UPDATES CHANNEL 📣",
                             url="https://t.me/epusthakalaya_bots",
                         )
                     ],
