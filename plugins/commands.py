@@ -13,6 +13,12 @@ async def start(client: Client, message: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
+                        InlineKeyboardButton(
+                            "📣 Updates Channel 📣",
+                            url="https://t.me/epusthakalaya_bots",
+                        )
+                    ],    
+                    [
                         InlineKeyboardButton("🆘 HELP 🆘", callback_data="help_data"),
                         InlineKeyboardButton("ℹ️ ABOUT ℹ️", callback_data="about_data"),
                     ],
