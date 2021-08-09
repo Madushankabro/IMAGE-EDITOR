@@ -2,7 +2,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I'm a 𝙄𝙈𝘼𝙂𝙀 𝙀𝘿𝙄𝙏𝙊𝙍 𝘽𝙊𝙏 which Supports various modes.
+I'm  𝙄𝙈𝘼𝙂𝙀 𝙀𝘿𝙄𝙏𝙊𝙍 𝘽𝙊𝙏 which Supports various modes.
 
 Click HELP Button for mor info....
 
