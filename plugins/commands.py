@@ -13,13 +13,13 @@ async def start(client: Client, message: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("HELP", callback_data="help_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("🆘 HELP 🆘", callback_data="help_data"),
+                        InlineKeyboardButton("ℹ️ ABOUT ℹ️", callback_data="about_data"),
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            "📣 Updates Channel 📣",
+                            url="https://t.me/epusthakalaya_bots",
                         )
                     ],
                 ]
@@ -39,13 +39,13 @@ async def help(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BACK", callback_data="start_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("↪️ BACK ↩️", callback_data="start_data"),
+                        InlineKeyboardButton("ℹ️ ABOUT ℹ️", callback_data="about_data"),
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            "📣 Updates Channel 📣",
+                            url="https://t.me/epusthakalaya_bots",
                         )
                     ],
                 ]
@@ -65,13 +65,13 @@ async def about(client, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("BACK", callback_data="help_data"),
-                        InlineKeyboardButton("START", callback_data="start_data"),
+                        InlineKeyboardButton("↪️ BACK ↩️", callback_data="help_data"),
+                        InlineKeyboardButton("🔄 START 🔄", callback_data="start_data"),
                     ],
                     [
                         InlineKeyboardButton(
-                            "Updates Channel",
-                            url="https://t.me/SDBOTs_inifinity",
+                            "📣 Updates Channel 📣",
+                            url="https://t.me/epusthakalaya_bots",
                         )
                     ],
                 ]
