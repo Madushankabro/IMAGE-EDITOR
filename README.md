@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://telegra.ph/file/c4678a749930a17efa2cd.jpg">
+    <img src="https://telegra.ph/file/ecde990bfbad2eabba61b.jpg">
       </a>
 
 
@@ -27,7 +27,7 @@ A Powerful and Useful Bot Which Can :-
 * Remove BG
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/Image-Editor-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Madushankabro/IMAGE-EDITOR.git)
 
 <HR/>
 
