@@ -25,4 +25,4 @@ class script(object):
 
 ♞<b>Group :</b> 👉 <a href='https://t.me/epusthakalayabotsupport'>Click Here</a>
 
-♞<b>Credits :</b> 💾 <a href='https://github.com/Sadew451/Image-Editor-Bot'>Original Repo</a>""""
+♞<b>Credits :</b> 💾 <a href='https://github.com/Sadew451/Image-Editor-Bot'>Original Repo</a> """"
