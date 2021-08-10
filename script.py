@@ -17,7 +17,8 @@ class script(object):
 
 © 🔰@epusthakalaya_bots™🔰"""
 
-    ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
-⭕️<b>Language :</b> <code>Python3</code>
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
-⭕️<b>Group :</b> 👉 <a href='https://t.me/SDBOTz'>Click Here</a>"""
+    ABOUT_MSG = """♞<b>My Name : 𝙄𝙈𝘼𝙂𝙀 𝙀𝘿𝙄𝙏𝙊𝙍 𝘽𝙊𝙏</b>
+♞<b>Language :</b> <code>Python3</code>
+♞<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+♞<b>Group :</b> 👉 <a href='https://t.me/epusthakalayabotsupport'>Click Here</a>
+♞<b>Credits :</b> 💾 <a href='https://github.com/Sadew451/Image-Editor-Bot'>Original Repo</a> """
