@@ -6,8 +6,7 @@ class script(object):
 ☞ Click HELP Button for more info & don't forget to REVIEW US...
 
 © 🔰@epusthakalaya_bots™🔰</b>"""
-    HELP_MSG = """『 HELP MENU 』
-    Hi, Follow these Steps..
+    HELP_MSG = """Hi, Follow these Steps..
 
 <code>🖼 Send me any Image to Edit..</code>
 
