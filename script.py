@@ -27,4 +27,4 @@ class script(object):
 
 ♞<b>Credits :</b> 💾 <a href='https://github.com/Sadew451/Image-Editor-Bot'>Original Repo</a>
 
-© 🔰@epusthakalaya_bots™🔰""""""
+© 🔰@epusthakalaya_bots™🔰""""
