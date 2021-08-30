@@ -2,20 +2,20 @@
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://telegra.ph/file/cc53c853d33b6a55a53a0.jpg">
+    <img src="https://telegra.ph/file/e4702ad5375076355a100.jpg">
       </a>
 
 
   
 </p>
 <p align="center">
-  <a href="https://github.com/sadew451/Image-Editor-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/sadew451/Image-Editor-Bot?style=social">
+  <a href="https://github.com/Madushankabro/IMAGE-EDITOR/stargazers">
+    <img src="https://img.shields.io/github/stars/Madushankabro/IMAGE-EDITOR?style=social">
 
   </a>
   
-  <a href="https://github.com/sadew451/Image-Editor-Bot/fork">
-    <img src="https://img.shields.io/github/forks/sadew451/Image-Editor-Bot?label=Fork&style=social">
+  <a href="https://github.com/Madushankabro/IMAGE-EDITOR/fork">
+    <img src="https://img.shields.io/github/forks/Madushankabro/IMAGE-EDITOR?label=Fork&style=social">
 
   </a>  
 </p>
